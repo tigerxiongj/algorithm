@@ -1,7 +1,7 @@
 class Solution {
 	
 	/**
-	 * ͷβָ��
+	 * 头尾指针
 	 * @param s
 	 */
     public void reverseString(char[] s) {
